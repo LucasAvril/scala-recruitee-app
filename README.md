@@ -1,0 +1,1 @@
+# scala-recruitee-app
